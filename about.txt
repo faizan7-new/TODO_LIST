@@ -1,0 +1,1 @@
+A web application to implement a TO-DO LIST. The application provides features such as adding new tasks to the to-do list,  removing tasks from the to-do list and marking tasksas completed.
